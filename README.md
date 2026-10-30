@@ -1,4 +1,4 @@
-#  Bonjour, c'est Younes KHANA !
+#  Bonjour, c'est Younes !
 
 ### 📊 Étudiant en M2 Statistique & Économétrie
 **Passionné par le Machine Learning, l'Actuariat & les Séries Temporelles**
