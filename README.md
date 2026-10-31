@@ -3,7 +3,7 @@
 ### 📊 Master's Student (M2) in Statistics & Econometrics
 **Passionate about Machine Learning, Actuarial Science & Time Series**
 
-Currently a Master 2 student in Statistics and Econometrics, I am passionate about statistical modeling, risk analysis, and time series forecasting, combining econometric rigor with modern Machine Learning techniques.
+Currently a second year master's student in Statistics and Econometrics, I am passionate about statistical modeling, risk analysis, and time series forecasting, combining econometric rigor with modern Machine Learning techniques to solve high-impact quantitative and business challenges.
 
 ---
 
